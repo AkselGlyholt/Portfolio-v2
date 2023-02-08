@@ -770,18 +770,6 @@ footer {
     height: 75px;
     margin-top: 28px;
   }
-
-  .landing__title {
-    font-size: 120px;
-  }
-
-  .landing__button--anchor {
-    padding: 14px 44px;
-  }
-
-  .landing__sub-title {
-    font-size: 18px;
-  }
 }
 
 /* Small phones */
