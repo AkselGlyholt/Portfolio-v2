@@ -1,1 +1,82 @@
-function _0xcc54(_0x20f909,_0x207690){const _0x33b2ce=_0x33b2();return _0xcc54=function(_0xcc54c,_0x48c8a6){_0xcc54c=_0xcc54c-0x13c;let _0x5ab53d=_0x33b2ce[_0xcc54c];return _0x5ab53d;},_0xcc54(_0x20f909,_0x207690);}const _0x3dfd05=_0xcc54;(function(_0xb796f3,_0x33201f){const _0x66adc6=_0xcc54,_0x4da5aa=_0xb796f3();while(!![]){try{const _0x36d1a0=-parseInt(_0x66adc6(0x15c))/0x1+parseInt(_0x66adc6(0x167))/0x2*(parseInt(_0x66adc6(0x14a))/0x3)+-parseInt(_0x66adc6(0x145))/0x4*(parseInt(_0x66adc6(0x157))/0x5)+-parseInt(_0x66adc6(0x164))/0x6*(-parseInt(_0x66adc6(0x16c))/0x7)+parseInt(_0x66adc6(0x14e))/0x8*(-parseInt(_0x66adc6(0x151))/0x9)+-parseInt(_0x66adc6(0x147))/0xa*(-parseInt(_0x66adc6(0x141))/0xb)+-parseInt(_0x66adc6(0x154))/0xc;if(_0x36d1a0===_0x33201f)break;else _0x4da5aa['push'](_0x4da5aa['shift']());}catch(_0x262a75){_0x4da5aa['push'](_0x4da5aa['shift']());}}}(_0x33b2,0x80b23));let isModalOpen=![],contrastToggle=![];const scaleFactor=0x1/0x14;function _0x33b2(){const _0x40c6af=['head','classList','matches','link[rel~=\x27icon\x27]','appendChild','\x20modal--open','clientX','5836662Nucahu','service_1b4w8fi','href','106558ZusBQx','then','sendForm','deg)','\x20dark-theme','7xQziBF','.modal__overlay--success','dark-theme','.modal__overlay--loading','./assets/logo--white.png','target','preventDefault','3795187vERNCe','_eq0jCVCj_ouc5Hp5','remove','px,\x20','4NhAIfH','template_78r51bl','30BFObIe','body','matchMedia','51MbDcwX','white','modal__overlay--visible','\x20modal__overlay--visible','8kavJcY','catch','clientY','5998419YbmHht','querySelector','translate(','13444716yfIDNz','transform','link','988070gITsCx','scrollTo','The\x20email\x20service\x20is\x20temporarily\x20unavailable.\x20Please\x20contact\x20me\x20directly\x20on\x20akselglyholt1@gmail.com','px)\x20rotate(','black','401934LFrAPZ'];_0x33b2=function(){return _0x40c6af;};return _0x33b2();}function moveBackground(_0x94cb47){const _0x3cc67a=_0xcc54,_0x3d56b1=document['querySelectorAll']('.shape'),_0x508f50=_0x94cb47[_0x3cc67a(0x163)]*scaleFactor,_0x1b74c7=_0x94cb47[_0x3cc67a(0x150)]*scaleFactor;for(let _0x483667=0x0;_0x483667<_0x3d56b1['length'];++_0x483667){const _0x5b89fd=_0x483667%0x2!==0x0,_0x448dab=_0x5b89fd?-0x1:0x1;_0x3d56b1[_0x483667]['style'][_0x3cc67a(0x155)]=_0x3cc67a(0x153)+_0x508f50*_0x448dab+_0x3cc67a(0x144)+_0x1b74c7*_0x448dab+_0x3cc67a(0x15a)+_0x508f50*_0x448dab*0xa+_0x3cc67a(0x16a);}}function changeFavicon(_0x5795e2){const _0x1805c9=_0xcc54;var _0x32173f=document['querySelector'](_0x1805c9(0x160));!_0x32173f&&(_0x32173f=document['createElement'](_0x1805c9(0x156)),_0x32173f['rel']='icon',document[_0x1805c9(0x15d)][_0x1805c9(0x161)](_0x32173f));if(_0x5795e2===_0x1805c9(0x14b))_0x32173f[_0x1805c9(0x166)]=_0x1805c9(0x13e);else _0x5795e2===_0x1805c9(0x15b)&&(_0x32173f[_0x1805c9(0x166)]='./assets/logo.png');}function toggleContrast(){const _0x21ae07=_0xcc54;contrastToggle=!contrastToggle,contrastToggle?(document[_0x21ae07(0x148)][_0x21ae07(0x15e)]+=_0x21ae07(0x16b),changeFavicon(_0x21ae07(0x14b))):(document[_0x21ae07(0x148)][_0x21ae07(0x15e)][_0x21ae07(0x143)](_0x21ae07(0x13c)),changeFavicon(_0x21ae07(0x15b)));}window[_0x3dfd05(0x149)]('(prefers-color-scheme:dark)')[_0x3dfd05(0x15f)]===!![]&&(toggleContrast(),changeFavicon(_0x3dfd05(0x14b)));function contact(_0x592608){const _0x12e543=_0x3dfd05;_0x592608[_0x12e543(0x140)]();const _0x450da9=document['querySelector'](_0x12e543(0x13d)),_0x13fb4b=document[_0x12e543(0x152)](_0x12e543(0x16d));_0x450da9[_0x12e543(0x15e)]+='\x20modal__overlay--visible',emailjs[_0x12e543(0x169)](_0x12e543(0x165),_0x12e543(0x146),_0x592608[_0x12e543(0x13f)],_0x12e543(0x142))[_0x12e543(0x168)](()=>{const _0x1e13f3=_0x12e543;_0x450da9['classList'][_0x1e13f3(0x143)]('modal__overlay--visible'),_0x13fb4b[_0x1e13f3(0x15e)]+=_0x1e13f3(0x14d);})[_0x12e543(0x14f)](()=>{const _0xc89b9a=_0x12e543;_0x450da9[_0xc89b9a(0x15e)][_0xc89b9a(0x143)](_0xc89b9a(0x14c)),alert(_0xc89b9a(0x159));});}function toggleModal(){const _0x46a8fa=_0x3dfd05;if(isModalOpen)return isModalOpen=![],document[_0x46a8fa(0x148)]['classList'][_0x46a8fa(0x143)]('modal--open');isModalOpen=!![],document[_0x46a8fa(0x148)][_0x46a8fa(0x15e)]+=_0x46a8fa(0x162),window[_0x46a8fa(0x158)](0x0,0x0);}
+let isModalOpen = false;
+let contrastToggle = false;
+const scaleFactor = 1 / 20;
+
+function moveBackground(event) {
+  const shapes = document.querySelectorAll(".shape");
+  const x = event.clientX * scaleFactor;
+  const y = event.clientY * scaleFactor;
+
+  for (let i = 0; i < shapes.length; ++i) {
+    const isOdd = i % 2 !== 0;
+    const boolInt = isOdd ? -1 : 1;
+    shapes[i].style.transform = `translate(${x * boolInt}px, ${y * boolInt}px) rotate(${x * boolInt * 10}deg)`
+  }
+}
+
+function changeFavicon(iconColor) {
+  var link = document.querySelector("link[rel~='icon']");
+
+  if (!link) {
+    link = document.createElement('link');
+    link.rel = 'icon';
+    document.head.appendChild(link);
+  }
+
+  if (iconColor === 'white') {
+    link.href = './assets/favi-white.png'
+  } else if (iconColor === 'black') {
+    link.href = './assets/favi-black.png';
+  }
+}
+
+function toggleContrast() {
+  contrastToggle = !contrastToggle;
+  if (contrastToggle) {
+    document.body.classList += " dark-theme"
+    changeFavicon('white');
+  }
+  else {
+    document.body.classList.remove("dark-theme")
+    changeFavicon('black');
+  }
+}
+
+if (window.matchMedia("(prefers-color-scheme:dark)").matches === true) {
+  toggleContrast();
+  changeFavicon('white');
+}
+
+function contact(event) {
+  event.preventDefault();
+  const loading = document.querySelector(".modal__overlay--loading");
+  const success = document.querySelector(".modal__overlay--success");
+  loading.classList += " modal__overlay--visible";
+  emailjs
+    .sendForm(
+      "service_1b4w8fi",
+      "template_78r51bl",
+      event.target,
+      "_eq0jCVCj_ouc5Hp5"
+    )
+    .then(() => {
+      loading.classList.remove("modal__overlay--visible");
+      success.classList += " modal__overlay--visible";
+    })
+    .catch(() => {
+      loading.classList.remove("modal__overlay--visible");
+      alert(
+        "The email service is temporarily unavailable. Please contact me directly on akselglyholt1@gmail.com"
+      );
+    });
+}
+
+function toggleModal() {
+  if (isModalOpen) {
+    isModalOpen = false;
+    return document.body.classList.remove("modal--open");
+  }
+  isModalOpen = true;
+  document.body.classList += " modal--open";
+  window.scrollTo(0, 0);
+}
