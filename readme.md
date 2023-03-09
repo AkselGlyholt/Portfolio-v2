@@ -1,15 +1,17 @@
-# Short rundown of the website
+# **Short rundown of the website**
 If you don't want to look at my website for some reason then take a look here.
 
-## Languages
+# **Languages**
 - HTML
 - CSS
 - JavaScript
 - React
 
-## Projects
-_I havent worked on any big projects that I want to showcase yet_
+# **Projects**
+## **E-Commerce Website**
+### HTML, CSS, JavaScript, React
+[Click Here](https://akselglyholt.github.io/library-react-build/)
 
-## Contact
+# Contact
 - Twitter: https://twitter.com/AkselGlyholt
 - Email: akselglyholt1@gmail.com
