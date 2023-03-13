@@ -22,3 +22,4 @@ If you don't want to look at my website for some reason then take a look here.
 # Contact
 - Twitter: https://twitter.com/AkselGlyholt
 - Email: akselglyholt1@gmail.com
+- Phone: +45 23 81 93 39
