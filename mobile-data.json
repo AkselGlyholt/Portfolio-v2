@@ -1,10 +1,12 @@
 [
     {
+        "Id": 1,
         "IdCode": 18235,
         "username": "Nykøbing Falster Realskole",
         "iconName": "house",
     },
     {
+        "Id": 2,
         "IdCode": 50182,
         "username": "Realskolen",
         "iconName": "backpack",
