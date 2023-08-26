@@ -2,11 +2,11 @@
     {
         "id": 18235,
         "username": "Nykøbing Falster Realskole",
-        "icon-name": "house",
+        "iconName": "house",
     },
     {
         "id": 50182,
         "username": "Realskolen",
-        "icon-name": "backpack",
+        "iconName": "backpack",
     }
 ]
